@@ -3,10 +3,12 @@
 Quickly create simple invoices, and export them to PDF.
 
 
-
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
+<div>
+ <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-navy?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge"/>
+</div>
+ 
 
 
 
